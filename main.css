@@ -1,0 +1,17 @@
+.title{
+    text-align: center;
+}
+
+.section{
+    margin: 0 auto;
+    background-color: cornflowerblue;
+    width: 1200px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.container {
+    margin-bottom: 5px;
+    display: block;
+    text-align: center;
+}
