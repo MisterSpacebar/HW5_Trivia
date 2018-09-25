@@ -323,6 +323,8 @@ function resetTheThingy(){
 
     seconds = 30;
 
+    $("button").css("background-color","cornflowerblue");
+
     finalCountdown();
     questionLoader();
 }
